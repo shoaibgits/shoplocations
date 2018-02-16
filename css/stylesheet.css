@@ -1,0 +1,36 @@
+.formInputs{
+  float: left;
+  padding: 10px;
+}
+.store-wrapper {
+    clear: both;
+    overflow: hidden;
+    border: 1px solid #cccccc;
+    margin: 10px 0;
+}
+.store-image {
+    float: left;
+    width: 40%;
+}
+select#country{
+    font-family: sans-serif;
+    padding:5px 0;
+}
+.store-contents {
+    float: left;
+    width: 60%;
+    padding: 10px 20px; 
+}
+.store-image img {
+    vertical-align: middle;
+}
+.head-information {
+    padding: 20px 0 0 0;
+    font-family: sans-serif;
+}
+h2.banner-under {
+    background: #ccc;
+    padding: 10px 5px;
+    color: #ffffff;
+    font-family: sans-serif;
+}
