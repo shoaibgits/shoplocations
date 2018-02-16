@@ -30,7 +30,7 @@ select#country{
 }
 h2.banner-under {
     background: #ccc;
-    padding: 10px 5px;
+    padding: 10px 5px !important;
     color: #ffffff;
     font-family: sans-serif;
 }
